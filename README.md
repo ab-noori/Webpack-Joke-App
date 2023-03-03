@@ -103,7 +103,7 @@ Clone this repository to your desired folder:
 - Use the following Commands:
 
       cd your-desired-folder
-      git clone git@github.com:ab-noori/Project-Template.git
+      git clone git@github.com:ab-noori/Webpack-Joke-App.git
 
 
 ### Install
