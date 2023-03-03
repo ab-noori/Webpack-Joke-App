@@ -2,14 +2,6 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="images/project-image.png" alt="logo" width="500"  height="auto" />
-  <br/>
-
-  <h3><b></b></h3>
-
-</div>
 
 <!-- Open pull request using the following structure
 
@@ -25,12 +17,12 @@
 
 -->
 
-> # Template Repository
+> # Webpack Joke App
 ### Desktop view shoots for this project:
 
 | Desktop Veiw Representation|
 |---------------------------------------|
-|![screenshot](images/project-image.png)|
+|![screenshot](./src/assets/project-shot.PNG)|
 
 <!-- TABLE OF CONTENTS -->
 
@@ -58,11 +50,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Webpack-Joke-App] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[Webpack-Joke-App]** is simple webpack joke application. but actually it is a frontend webpack environment boilerplate for building JavaScript applications, which I can later use as a starting point in my projects.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -70,8 +62,9 @@
 - <summary>Client</summary>
     <ul>
       <li><a href="https://reactjs.org/">HTML</a></li>
-      <li><a href="https://reactjs.org/">Bootstrap</a></li>
+      <li><a href="https://reactjs.org/">Sass</a></li>
       <li><a href="https://reactjs.org/">JavaScript</a></li>
+      <li><a href="https://reactjs.org/">Webpack</a></li>
     </ul>
 
 
