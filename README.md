@@ -38,7 +38,6 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
@@ -52,7 +51,7 @@
 
 # 📖 [Webpack-Joke-App] <a name="about-project"></a>
 
-> **[Webpack-Joke-App]** is simple webpack joke application. but actually it is a frontend webpack environment boilerplate for building JavaScript applications, which I can later use as a starting point in my projects.
+> **[Webpack-Joke-App]** is a simple webpack joke application. but actually it is a frontend webpack environment boilerplate for building JavaScript applications, which I can later use as a starting point in my projects.
 
 ## 🛠 Built With <a name="built-with"></a>
 
